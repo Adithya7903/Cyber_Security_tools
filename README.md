@@ -20,6 +20,7 @@ A collection of simple hacking tools for educational purposes.
 ## Introduction
 
 This project provides a suite of hacking tools designed for educational purposes. Each tool performs a specific function related to network scanning and penetration testing.
+#####THIS CODE IS RECOMMENDED TO USE IN KALI LINUX since all the dependecies are already pre-installed 
 
 ## Tools
 
