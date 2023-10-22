@@ -12,10 +12,6 @@ A collection of simple hacking tools for educational purposes.
   - [4. Nmap Scanner](#4-nmap-scanner)
   - [5. MSFConsole](#5-msfconsole)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
