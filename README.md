@@ -49,3 +49,9 @@ MSFConsole launches the Metasploit Framework console for advanced penetration te
 
    ```bash
    git clone https://github.com/Adithya7903/Cyber_Security_tools.git
+
+
+2. TO RUN THE CODE
+   ```bash
+   python3 app.py
+   
